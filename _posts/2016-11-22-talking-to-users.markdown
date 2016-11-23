@@ -62,8 +62,8 @@ _[1] The [HN comments] on this post are case in point. People are
 talking about sending emails and debating subject lines, when really
 they should be driving over to their users's offices._
 
-_[2] This post applies to [hunting] deer and possibly
-rabbits. Elephants, mice, and flies are different._
+_[2] This heuristic applies to [hunting] deer, and possibly rabbits
+and mice. Elephants and flies are different._
 
 [HN comments]: https://news.ycombinator.com/item?id=13022455
 [hunting]: http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html
