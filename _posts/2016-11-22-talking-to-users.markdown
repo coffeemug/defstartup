@@ -8,14 +8,14 @@ The idea that startups should talk to users is conventional
 wisdom. Great founders talk to users, so most founders signal their
 greatness by making a point that they do it too. But empirically
 talking to users is so hard that people make excuses not to do it, and
-then convince themselves that they're extremely user focused.
+then convince themselves that they're extremely user focused[1].
 
 The problem is that "talk to users" is too vague to be
 falsifiable. How do you know if you're doing it right? Here is a quick
 rule of thumb. __You're doing it right if you can get a third of
 potential users to pay you money within a month of initial contact.__
 
-The numbers aren't exact, but they're ballpark right. If you're off by
+The numbers aren't exact, but they're ballpark right[2]. If you're off by
 ten percentage points or a month or two, you're probably ok. If you
 can only get 1% of potential users to pay you after a year of back and
 forth, your company will probably die. What if your company is
@@ -56,4 +56,14 @@ supercharge morale in your company. Since startups live and die by
 momentum, tangible early success built on real discipline tends to
 turn into a self-fulfilling prophecy.
 
+---
 
+_[1] The [HN comments] on this post are case in point. People are
+talking about sending emails and debating the subject lines, when
+really they should be driving over to their users's offices._
+
+_[2] This post applies to [hunting] deer and possibly
+rabbits. Elephants, mice, and flies are different._
+
+[HN comments]: https://news.ycombinator.com/item?id=13022455
+[hunting]: http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html
