@@ -59,8 +59,8 @@ turn into a self-fulfilling prophecy.
 ---
 
 _[1] The [HN comments] on this post are case in point. People are
-talking about sending emails and debating the subject lines, when
-really they should be driving over to their users's offices._
+talking about sending emails and debating subject lines, when really
+they should be driving over to their users's offices._
 
 _[2] This post applies to [hunting] deer and possibly
 rabbits. Elephants, mice, and flies are different._
