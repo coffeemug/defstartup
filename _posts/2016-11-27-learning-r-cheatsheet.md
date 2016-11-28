@@ -67,12 +67,16 @@ library(x)	   # load package
 help(package='x')  # get help on a package
 ```
 
-Distributions:
+Basic stats:
 
 ```
+data()      # list available datasets
+
 runif(x)	# generate x uniformly distributed numbers
 rnorm(x)	# generate x normally distributed numbers
 summary(x)	# print summary info for statistical objects
+
+lm(x~y[, data=z]) # linear regression
 ```
 
 Plotting basics:
@@ -82,6 +86,15 @@ dev.new()       # create new plotting device and set active
 def.off()       # delete the last plotting device
 png/pdf('x')    # write graphics to a file
 
-hist(x)		# compute a histogram object (and plot by default)
+hist(x)		      # compute a histogram object (and plot by default)
+plot(x, y)        # plot `x` against `y`
+plot(x~y)         # plot `x` against `y`
+plot(x~y, data=z) # plot `x` against `y` from dataframe
+abline(...)       # add a line to plot
 ```
 
+Data structures:
+
+```
+c(1, 2, 3)        # vectors
+```
