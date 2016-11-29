@@ -67,7 +67,7 @@ library(x)	   # load package
 help(package='x')  # get help on a package
 ```
 
-Basic stats:
+Basic stats/math:
 
 ```
 data()      # list available datasets
@@ -77,6 +77,8 @@ rnorm(x)	# generate x normally distributed numbers
 summary(x)	# print summary info for statistical objects
 
 lm(x~y[, data=z]) # linear regression
+
+integrate(f, i, j) # integrate `f` in range
 ```
 
 Plotting basics:
@@ -91,6 +93,8 @@ plot(x, y)        # plot `x` against `y`
 plot(x~y)         # plot `x` against `y`
 plot(x~y, data=z) # plot `x` against `y` from dataframe
 abline(...)       # add a line to plot
+
+curve(dnorm, -4, 4)  # plot a function
 ```
 
 Data structures:
