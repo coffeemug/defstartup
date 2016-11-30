@@ -20,6 +20,7 @@ Window management:
 C-x %                       # vertical split
 C-x "                       # horizontal split
 C-x <arrow>                 # switch to a pane
+C-x {                       # swap panes}
 ```
 
 Slightly more advanced stuff:
