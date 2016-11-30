@@ -3,6 +3,12 @@ layout: post
 title: tmux cheatsheet
 ---
 
+iTerm2 integration (so you don't have to learn any commands):
+
+```
+tmux -CC [COMMAND]          # do the iTerm magic
+```
+
 Some really basic commands (note I rebound C-b to C-x, see below):
 
 ```
