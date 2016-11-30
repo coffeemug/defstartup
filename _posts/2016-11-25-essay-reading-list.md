@@ -16,4 +16,5 @@ new ones.
 - [The Tyranny of Small Decisions](http://opus1journal.org/articles/article.asp?docID=140) --  Alfred Kahn
 - [Politics and the English Language](http://www.orwell.ru/library/essays/politics/english/e_polit/) -- George Orwell
 - [How to say nothing in five hundred words](http://www.mrgunnar.net/ap.cfm?subpage=348270) -- Paul McHenry Roberts
+- [The Age of the Essay](http://www.paulgraham.com/essay.html) -- Paul Graham
 
