@@ -15,3 +15,5 @@ new ones.
 - [Five Ways To Build 100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) -- Christoph Janz
 - [The Tyranny of Small Decisions](http://opus1journal.org/articles/article.asp?docID=140) --  Alfred Kahn
 - [Politics and the English Language](http://www.orwell.ru/library/essays/politics/english/e_polit/) -- George Orwell
+- [How to say nothing in five hundred words](http://www.mrgunnar.net/ap.cfm?subpage=348270) -- Paul McHenry Roberts
+
