@@ -14,4 +14,4 @@ new ones.
 - [Five Things We Need to Know About Technological Change](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) -- Neil Postman
 - [Five Ways To Build 100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) -- Christoph Janz
 - [The Tyranny of Small Decisions](http://opus1journal.org/articles/article.asp?docID=140) --  Alfred Kahn
-
+- [Politics and the English Language](http://www.orwell.ru/library/essays/politics/english/e_polit/) -- George Orwell
