@@ -97,8 +97,29 @@ abline(...)       # add a line to plot
 curve(dnorm, -4, 4)  # plot a function
 ```
 
-Data structures:
+Vectors:
 
 ```
-c(1, 2, 3)        # vectors
+x<-c(1, 2, 3)     # constructor
+x[1]              # 1-based indexes
+x[c(1,2)]         # get multiple indexes
+1:5               # range (inclusive)
+```
+
+Data frames:
+
+```
+data.frame(v1, v2)    # populate a two-column data frame
+names(x)<-c('a', 'b') # name the columns
+
+x[2]                  # get a column
+x['b']                # get a column
+x$b                   # get a column
+
+x[2:3]                # get multiple columns
+x[,2:3]               # get multiple columns
+
+with(x, { a })        # refer to a column, save typing
+
+x[2:3,]               # get multiple rows
 ```
