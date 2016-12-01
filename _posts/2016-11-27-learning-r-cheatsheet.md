@@ -16,6 +16,7 @@ Types/objects:
 
 ```
 mode(x)		# type of an object (storage mode)
+str(x)      # display the structure of an object
 ls()		# list the objects in the current workspace
 rm(x)		# delete the object from curren workspace
 ```
@@ -102,8 +103,16 @@ Vectors:
 ```
 x<-c(1, 2, 3)     # constructor
 x[1]              # 1-based indexes
+x[5]<-5           # expansion
 x[c(1,2)]         # get multiple indexes
 1:5               # range (inclusive)
+```
+
+Factors:
+
+```
+# efficient storage of low cardinality
+factor(c('x', 'y', 'z', 'x'))
 ```
 
 Data frames:
