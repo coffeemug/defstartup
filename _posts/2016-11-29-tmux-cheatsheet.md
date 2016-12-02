@@ -29,6 +29,13 @@ C-x <arrow>                 # switch to a pane
 C-x {                       # swap panes}
 ```
 
+Scrolling:
+
+```
+C-x [                       # scroll mode (use arrow keys)
+q                           # exit scroll mode
+```
+
 Slightly more advanced stuff:
 
 ```
