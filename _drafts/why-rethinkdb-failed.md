@@ -255,6 +255,13 @@ message][median] and that we will be immune to the hard math of the
 markets by building a brilliant product. The math, of course,
 eventually caught up with us.
 
+// TODO: sentimentality, seeting the world for what it really is, not
+what you want it be (e.g. "what does the mean for the developer tools
+market?" -- should I put that here? the market section? another
+section?)
+
+// TODO: go-to-market team/investors
+
 If I were to start another startup today, I would do three things
 differently:
 
