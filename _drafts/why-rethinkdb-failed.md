@@ -102,7 +102,7 @@ beautiful product, so we optimized for the following metrics:
   in the implementation, so application developers wouldn't have to.
 - __Consistency.__ We made everything from the query language, to the
   client drivers, to cluster configuration, to documentation, to the
-  marketing copy on the front page was as consistent as possible.
+  marketing copy on the front page as consistent as possible.
 
 If these trade-offs seem familiar, they're straight from the [worse is
 better][worse-is-better] essay. It turned out that correctness,
@@ -148,18 +148,18 @@ Every time MongoDB shipped a new release and people congratulated them
 on making improvements, I felt pangs of resentment. They'd announce
 they fixed the BKL, but really they'd get the granularity level down
 from a database to a collection. They'd add more operations, but
-instead of a thoughtful interface that fits with the rest of the
+instead of a composable interface that fits with the rest of the
 system, they'd simply bolt on one-off commands. They'd make sharding
 improvements, but it was obvious they were unwilling or unable to make
 even rudimentary data consistency guarantees.
 
 But over time I learned to appreciate the wisdom of the
-crowds. MongoDB turned regular developers into heroes. It made data
-storage fast, and let people ship products quickly. And over time,
-MongoDB grew up. One by one, they fixed the issues with the
-architecture, and now it is an excellent product. It may not be as
-beautiful as we would have wanted, but it does the job, and it does it
-well.
+crowds. MongoDB turned regular developers into heroes *when people
+needed it*, not years after the fact. It made data storage fast, and
+let people ship products quickly. And over time, MongoDB grew up. One
+by one, they fixed the issues with the architecture, and now it is an
+excellent product. It may not be as beautiful as we would have wanted,
+but it does the job, and it does it well.
 
 When it became clear in mid-2014 that we couldn't compete, we worked
 hard to differentiate from MongoDB. We found a very elegant way to add
@@ -191,11 +191,11 @@ value-added platform as a service (PaaS). Let's do a quick back of the
 napkin market analysis using a $200K/employee in annual revenue [rule
 of thumb][estimate-revenue] we used above:
 
-|           |  Managed Hosting |   DaaS  |       PaaS              |
-|-----------|:----------------:|:-------:|:-----------------------:|
-| Companies | Compose.io, mLab | FaunaDB | Parse, Firebase, Meteor |
-| Employees |        ~30       |   ~30   |       ~30               |
-| Revenue   |      < $10M      |  < $10M |      < $10M             |
+|             |  Managed Hosting |   DaaS  |       PaaS              |
+|-------------|:----------------:|:-------:|:-----------------------:|
+| Company     | Compose.io, mLab | FaunaDB | Parse, Firebase, Meteor |
+| # Employees |        ~30       |   ~30   |       ~30               |
+| Revenue     |      < $10M      |  < $10M |      < $10M             |
 
 So these markets are small, even smaller than the database market
 itself. But could one of them be a better bet than others?
@@ -221,19 +221,21 @@ a startup when there are so many other substitutes and alternatives
 DaaS offering was out.
 
 The last option was to build a value-added platform as a service. We
-thought this was a promising direction because we had a massive
+thought this was a promising direction because here we had a massive
 technical advantage. Firebase and Meteor had to built
 application-level realtime logic on top of MongoDB, which
-fundamentally involves performance issues at scale and significant
-limitations to realtime querying capabilities. On the other hand, we
-controlled the stack all the way down, so we could offer significant
-advantages Firebase and Meteor couldn't build.
+fundamentally limits the realtime querying capabilities and
+performance at scale. On the other hand, we controlled the stack all
+the way down, so we could offer significant advantages Firebase and
+Meteor couldn't build.
 
 So we built [Horizon][horizon] and started working on Horizon Cloud --
 a way for users to deploy and scale RethinkDB/Horizon apps. The
 challanges of building three large projects (RethinkDB, Horizon, and
 Horizon Cloud) with a very small team eventually caught up with us,
-and we never managed to ship the cloud offering.
+and we never managed to ship the cloud offering before we ran out of
+money. Kudos to the engineering team, though. They came very, very
+close.
 
 # Meta questions
 
