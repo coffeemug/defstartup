@@ -259,6 +259,8 @@ decision.
 Firstly, given the state of the business, we couldn't have hired top
 go-to-market talent.
 
+// TODO
+
 # Meta questions
 
 There is one more level to root cause analysis that we can do. Why did
@@ -279,10 +281,11 @@ message][median] and that we will be immune to the hard math of the
 markets by building a brilliant product. The math, of course,
 eventually caught up with us.
 
+// TODO
+
 # What does all this mean for the developer tools market?
 
-// TODO: sentimentality, seeing the world for what it really is, not
-what you want it be.
+// TODO
 
 # Parting thoughts
 
