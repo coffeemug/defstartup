@@ -36,17 +36,18 @@ very successful company.
 
 Unfortunately you're not in the market you think you're in -- you're
 in the market *your users* think you're in. And our users clearly
-thought of us as a developer tools company, because that's what we
-really were. Which turned out to be very unfortunate, because the
-developer tools market is one of the [worst markets][another-redhat]
-one could possibly [end up in][dev-tools-market]. Thousands of people
-used RethinkDB, often in business contexts, but most were willing to
-pay less than the price of a single Starbucks coffee (which is to say,
-they weren't willing to pay anything at all).
+thought of us as an open-source developer tools company, because
+that's what we really were. Which turned out to be very unfortunate,
+because the open-source developer tools market is one of the [worst
+markets][another-redhat] one could possibly [end up
+in][dev-tools-market]. Thousands of people used RethinkDB, often in
+business contexts, but most were willing to pay less than the price of
+a single Starbucks coffee (which is to say, they weren't willing to
+pay anything at all).
 
 This wasn't because the product was so good people didn't need to pay
 for support, or because developers don't control budgets, or because
-we failed to build a go-to-market team. The answer is basic
+of failure of capitalism. The answer is basic
 microeconomics. Developers love building developer tools, often for
 free. So while there is massive demand, the supply vastly outstrips
 it. This [drives][five-forces] the number of alternatives up, and the
@@ -81,10 +82,10 @@ ridiculous number of leads to converge to a single sale.
 
 This has disasterous domino effects. It demoralizes the team, and
 makes it very challenging to attract investment and hire top
-go-to-market talent. In turn, that constrains your resources so you
-can't make sufficient investment into product and
-distribution. Startups live and die by momentum, and early
-distribution challenges almost always doom you to eventual death.
+talent. In turn, that constrains your resources so you can't make
+sufficient investment in product and distribution. Startups live and
+die by momentum, and early distribution challenges almost always doom
+you to eventual death.
 
 # Wrong metrics of goodness
 
@@ -191,11 +192,11 @@ value-added platform as a service (PaaS). Let's do a quick back of the
 napkin market analysis using a $200K/employee in annual revenue [rule
 of thumb][estimate-revenue] we used above:
 
-|             |  Managed Hosting |   DaaS  |       PaaS              |
-|-------------|:----------------:|:-------:|:-----------------------:|
-| Company     | Compose.io, mLab | FaunaDB | Parse, Firebase, Meteor |
-| # Employees |        ~30       |   ~30   |       ~30               |
-| Revenue     |      < $10M      |  < $10M |      < $10M             |
+|                 |  Managed Hosting |   DaaS  |       PaaS              |
+|:----------------|:----------------:|:-------:|:-----------------------:|
+| __Company__     | Compose.io, mLab | FaunaDB | Parse, Firebase, Meteor |
+| __Employees__   |        ~30       |   ~30   |       ~30               |
+| __Revenue__     |      < $10M      |  < $10M |      < $10M             |
 
 So these markets are small, even smaller than the database market
 itself. But could one of them be a better bet than others?
@@ -237,6 +238,27 @@ and we never managed to ship the cloud offering before we ran out of
 money. Kudos to the engineering team, though. They came very, very
 close.
 
+# Couldn't we have hired a good go-to-market team?
+
+When we realized we can't compete with MongoDB in mid-2014, we went
+out to seek advice. Business-minded people told us to build a good
+go-to-market team. Their argument was that experienced sales and
+marketing leaders would figure out how to sell the product and pull
+the company in the right direction.
+
+After thinking long and hard whether to invest remaining capital into
+building a go-to-market team, we decided to put it all into the
+product and work on differentiating RethinkDB with realtime
+functionality. We were in a difficult market and three years behind on
+mindshare. We reasoned that tacking on sales and marketing post-factum
+won't save us.
+
+Today, with the benefit of hindsight, I still believe it was the right
+decision.
+
+Firstly, given the state of the business, we couldn't have hired top
+go-to-market talent.
+
 # Meta questions
 
 There is one more level to root cause analysis that we can do. Why did
@@ -257,29 +279,28 @@ message][median] and that we will be immune to the hard math of the
 markets by building a brilliant product. The math, of course,
 eventually caught up with us.
 
-// TODO: sentimentality, seeting the world for what it really is, not
-what you want it be (e.g. "what does the mean for the developer tools
-market?" -- should I put that here? the market section? another
-section?)
+# What does all this mean for the developer tools market?
 
-// TODO: go-to-market team/investors
+// TODO: sentimentality, seeing the world for what it really is, not
+what you want it be.
 
-If I were to start another startup today, I would do three things
-differently:
+# Parting thoughts
 
-- Pick a large/growing market predisposed to pay for the product.
-- Pick metrics of goodness users care about and are willing to pay
-  for.
-- Build for *specific* people, not an abstract customer in my mind.
+In 2009, we were pitching the early idea behind RethinkDB (we had no
+software yet) to an audience of investors at the YCombinator demo
+day. We ended the pitch with a slide of three key points to
+remember. "If you only remember three things about RethinkDB," we
+said, "remember these." It worked. People didn't remember anything
+else about the pitch, but they did remember the three points at the
+end.
 
-I'd also work hard to counteract my optism bias by doing three more
-things:
+I'll now leave you with three key points to remember. If you remember
+anything about this post, remember these:
 
-- Take the judgement of independent smart people more seriously. Their
-  predictions are more likely to be closer to reality than my own.
-- Look carefully at base rates -- median outcomes for other companies
-  in related markets.
-- [Shut up and multiply][multiply].
+- Pick a large market as measured in dollars.
+- Optimize your product for *specific people*, not abstractions in
+  your mind.
+- To change the world, you must first learn to see it as it really is.
 
 ---
 
