@@ -18,3 +18,4 @@ new ones.
 - [How to say nothing in five hundred words](http://www.mrgunnar.net/ap.cfm?subpage=348270) -- Paul McHenry Roberts
 - [The Age of the Essay](http://www.paulgraham.com/essay.html) -- Paul Graham
 - [The Median Isn't the Message](http://cancerguide.org/median_not_msg.html) -- Stephen Jay Gould
+- [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm) -- Richard Feynman

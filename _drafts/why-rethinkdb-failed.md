@@ -263,25 +263,34 @@ go-to-market talent.
 
 # Meta questions
 
-There is one more level to root cause analysis that we can do. Why did
+There is one more level of root cause analysis that we can do. Why did
 we pick a bad market, optimize the product for the wrong metrics, and
 split focus by the end?
 
-I think the answer lies in the [optimism bias][rationality], and the
-flawed thinking in entrepreneur exceptionalism. To paraphrase Charlie
-Munger, we tried very hard to be smart but didn't try hard enough not
-to be stupid. Our mistakes weren't debatable missteps in a brilliant
-chess game. They were the same dumb mistakes thousands of
-entrepreneurs make every day, a proverbial checkmate in three moves.
+The first reason is that early on we had no intuition for products or
+markets. When I was a little kid I wanted to build my own radio, so I
+made a box out of plywood, threw some junk inside, and connected it to
+a power cord. It took me years to learn enough electronics to stop
+[cargo-culting][cargo-cult] and build a working radio. Early RethinkDB
+was a bit like that. Unless you're one of the rare few people who has
+innate intuition for this sort of thing, you have to go through years
+of trial and error before you get good. The intuition will come, but
+there aren't any shortcuts.
 
-Just like most physicians know that gifts from pharmaceutical
-companies have biasing effects for other physicians but believe they
-are immune from the effect, we believed [the median isn't the
-message][median] and that we will be immune to the hard math of the
-markets by building a brilliant product. The math, of course,
-eventually caught up with us.
+The second reason is that after we got better at understanding
+products and markets, we still lied to ourselves about [our
+exceptionalism][rationality]. Just like physicians know that gifts
+from pharmaceutical companies have biasing effects for other
+physicians but believe they are immune from the effect, we believed
+that we will be immune to the hard math of the markets by building a
+brilliant product. The math, of course, eventually caught up with us.
 
-// TODO
+To paraphrase Charlie Munger, we tried very hard to be smart but
+didn't try hard enough not to be stupid. Building an intuition for
+making better decisions by avoiding standard failure modes like this
+also takes significant concerted effort.
+
+// TODO: base rates, ask others
 
 # What does all this mean for the developer tools market?
 
@@ -324,5 +333,4 @@ but it should give you a general idea of the cost of these mistakes._
 [realtime-push]: https://rethinkdb.com/blog/1.16-release/
 [horizon]: http://horizon.io/
 [rationality]: https://doc.research-and-analytics.csfb.com/docView?document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3D
-[median]: http://cancerguide.org/median_not_msg.html
-[multiply]: https://wiki.lesswrong.com/wiki/Shut_up_and_multiply
+[cargo-cult]: http://calteches.library.caltech.edu/51/2/CargoCult.htm
