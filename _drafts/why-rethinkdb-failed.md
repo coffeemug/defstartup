@@ -41,9 +41,9 @@ that's what we really were. Which turned out to be very unfortunate,
 because the open-source developer tools market is one of the [worst
 markets][another-redhat] one could possibly [end up
 in][dev-tools-market]. Thousands of people used RethinkDB, often in
-business contexts, but most were willing to pay less than the price of
-a single Starbucks coffee (which is to say, they weren't willing to
-pay anything at all).
+business contexts, but most were willing to pay less for the lifetime
+of usage than the price of a single Starbucks coffee (which is to say,
+they weren't willing to pay anything at all).
 
 This wasn't because the product was so good people didn't need to pay
 for support, or because developers don't control budgets, or because
@@ -72,13 +72,13 @@ with existing partnerships, distribution infrastructure, and access to
 large accounts are having trouble growing, what does it mean for a
 startup in its germination stage?
 
-For us, it meant an impossibly difficult customer acquisition
-funnel. If a startup in a fertile B2B market has to process a hundred
-leads to get to ten opportunities to get to a single sale, for a
-developer tools startup that number goes up 10x. You have access to
-plenty of high quality prospects -- lots of people are downloading
-your product and engaging with you, but you have to burn through a
-ridiculous number of leads to converge to a single sale.
+For us, it meant an intractable customer acquisition funnel. If a
+startup in a fertile B2B market has to process a hundred leads to get
+to ten opportunities to get to a single sale, for a developer tools
+startup that number goes up 10x. You have access to plenty of high
+quality prospects -- lots of people are downloading your product and
+engaging with you, but you have to burn through a ridiculous number of
+leads to converge to a single sale.
 
 This has disasterous domino effects. It demoralizes the team, and
 makes it very challenging to attract investment and hire top
@@ -270,12 +270,11 @@ split focus by the end?
 The first reason is that early on we had no intuition for products or
 markets. When I was a little kid I wanted to build my own radio, so I
 made a box out of plywood, threw some junk inside, and connected it to
-a power cord. It took me years to learn enough electronics to stop
-[cargo-culting][cargo-cult] and build a working radio. Early RethinkDB
-was a bit like that. Unless you're one of the rare few people who has
-innate intuition for this sort of thing, you have to go through years
-of trial and error before you get good. The intuition will come, but
-there aren't any shortcuts.
+a power cord. Early RethinkDB was a bit like that. It took me years to
+learn enough electronics to eventually build a working radio. Unless
+you're one of the rare few people who has innate intuition for this
+sort of thing, you have to go through years of trial and error before
+you get good. The intuition will come, but there aren't any shortcuts.
 
 The second reason is that after we got better at understanding
 products and markets, we still lied to ourselves about [our
@@ -284,11 +283,6 @@ from pharmaceutical companies have biasing effects for other
 physicians but believe they are immune from the effect, we believed
 that we will be immune to the hard math of the markets by building a
 brilliant product. The math, of course, eventually caught up with us.
-
-To paraphrase Charlie Munger, we tried very hard to be smart but
-didn't try hard enough not to be stupid. Building an intuition for
-making better decisions by avoiding standard failure modes like this
-also takes significant concerted effort.
 
 // TODO: base rates, ask others
 
@@ -333,4 +327,4 @@ but it should give you a general idea of the cost of these mistakes._
 [realtime-push]: https://rethinkdb.com/blog/1.16-release/
 [horizon]: http://horizon.io/
 [rationality]: https://doc.research-and-analytics.csfb.com/docView?document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3D
-[cargo-cult]: http://calteches.library.caltech.edu/51/2/CargoCult.htm
+
