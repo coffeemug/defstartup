@@ -270,20 +270,15 @@ A few people pointed out that we would have done better if we had
 built an experienced go-to-market team. That's 100% true, but the
 timing of our personal development didn't line up with the needs of
 the company. Initially we didn't know we needed go-to-market
-expertise, so we didn't seek out to include it on the founding
-team[2]. By the time we built up a mental model that maps well to
-reality, we found ourselves short on cash, in a difficult market
-filled with capable competitors, and a product that's three years
-behind. By then, the best go-to-market team in the world couldn't have
-saved us.
-
-# What does all this mean for the developer tools market?
-
-// TODO
+expertise, so we didn't seek to include it on the founding team[2]. By
+the time we built up a mental model that maps well to reality, we
+found ourselves short on cash, in a difficult market filled with
+capable competitors, and a product that's three years behind. By then,
+the best go-to-market team in the world couldn't have saved us.
 
 # Parting thoughts
 
-In 2009, we were pitching the early idea behind RethinkDB (we had no
+In 2009, we were pitching the early idea for RethinkDB (we had no
 software yet) to an audience of investors at the YCombinator demo
 day. We ended the pitch with a slide of three key points to
 remember. "If you only remember three things about RethinkDB," we
@@ -307,7 +302,7 @@ but it should give you a general idea of the cost of these mistakes._
 
 _[2] Incidentally, recognizing good business people without having
 strong business intuition is about as hard as recognizing good
-engineers without having strong intuition for engineering._
+engineers without having a strong intuition for engineering._
 
 [shutdown-announcement]: https://rethinkdb.com/blog/rethinkdb-shutdown/
 [hn-discussion]: https://news.ycombinator.com/item?id=12649414
