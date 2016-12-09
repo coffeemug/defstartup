@@ -267,15 +267,15 @@ unconsciously incompetent, and it took years for that incompetence to
 become conscious.
 
 A few people pointed out that we would have done better if we had
-built an experienced go-to-market team. That's 100% true, but
-unfortunately the timing of our personal development didn't line up
-with the needs of the company. Initially we didn't know we needed
-go-to-market expertise, so we didn't seek out to include it on the
-founding team[2]. By the time we built up a mental model that maps
-well to reality, we found ourselves short on cash, in a difficult
-market filled with capable competitors, and a product that's three
-years behind. By then, the best go-to-market team in the world
-couldn't have saved us.
+built an experienced go-to-market team. That's 100% true, but the
+timing of our personal development didn't line up with the needs of
+the company. Initially we didn't know we needed go-to-market
+expertise, so we didn't seek out to include it on the founding
+team[2]. By the time we built up a mental model that maps well to
+reality, we found ourselves short on cash, in a difficult market
+filled with capable competitors, and a product that's three years
+behind. By then, the best go-to-market team in the world couldn't have
+saved us.
 
 # What does all this mean for the developer tools market?
 
