@@ -224,7 +224,7 @@ DaaS offering was out.
 
 The last option was to build a value-added platform as a service. We
 thought this was a promising direction because here we had a massive
-technical advantage. Firebase and Meteor had to built
+technical advantage. Firebase and Meteor had to build
 application-level realtime logic on top of MongoDB, which
 fundamentally limits the realtime querying capabilities and
 performance at scale. On the other hand, we controlled the stack all
