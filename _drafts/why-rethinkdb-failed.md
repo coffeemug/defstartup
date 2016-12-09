@@ -80,7 +80,7 @@ quality prospects -- lots of people are downloading your product and
 engaging with you, but you have to burn through a ridiculous number of
 leads to converge to a single sale.
 
-This has disasterous domino effects. It demoralizes the team, and
+This has disastrous domino effects. It demoralizes the team, and
 makes it very challenging to attract investment and hire top
 talent. In turn, that constrains your resources so you can't make
 sufficient investment in product and distribution. Startups live and
@@ -142,8 +142,8 @@ to do (store data), has a big kernel lock, throws away errors at
 random, implements single node features that stop working when you
 shard, has a barely working sharding system despite it being one of
 the core features of the product, provides essentially no correctness
-guarantees, and exposes a hodge podge of interfaces that have no
-discernable consistency or unity of vision.
+guarantees, and exposes a hodge-podge of interfaces that have no
+discernible consistency or unity of vision.
 
 Every time MongoDB shipped a new release and people congratulated them
 on making improvements, I felt pangs of resentment. They'd announce
@@ -233,7 +233,7 @@ Meteor couldn't build.
 
 So we built [Horizon][horizon] and started working on Horizon Cloud --
 a way for users to deploy and scale RethinkDB/Horizon apps. The
-challanges of building three large projects (RethinkDB, Horizon, and
+challenges of building three large projects (RethinkDB, Horizon, and
 Horizon Cloud) with a very small team eventually caught up with us,
 and we never managed to ship the cloud offering before we ran out of
 money. Kudos to the engineering team, though. They came very, very
@@ -297,7 +297,7 @@ anything about this post, remember these:
 
 ---
 
-_[1] Don't read into these numbers too closely. I'm ballparking it,
+_[1] Don't read into these numbers too closely. I'm ball-parking it,
 but it should give you a general idea of the cost of these mistakes._
 
 _[2] Incidentally, recognizing good business people without having
