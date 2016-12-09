@@ -278,6 +278,22 @@ the best go-to-market team in the world couldn't have saved us.
 
 # Parting thoughts
 
+Many people have very strong feelings about the developer tools
+market. Engineers love building developer tools, so they badly want
+developer tools companies to thrive.
+
+I am hesitant to dismiss the market entirely -- partly because I don't
+want to generalize from a single experience, partly because I don't
+like saying "it cannot be done", and partly because there are quite a
+few exceptions. GitHub, MongoDB, and Docker have built formidable
+companies. GitLab and Unity seem to be doing well.
+
+If you do set out to build a developer tools company, tread
+carefully. The market is filled with good alternatives. User
+expectations are high and prices are low. Think deeply about the value
+you're offering to the customer. Remember -- wanting the world to be a
+certain way doesn't make it so.
+
 In 2009, we were pitching the early idea for RethinkDB (we had no
 software yet) to an audience of investors at the YCombinator demo
 day. We ended the pitch with a slide of three key points to
