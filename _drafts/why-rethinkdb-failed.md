@@ -183,8 +183,9 @@ service is that it pattern matches to a common startup failure mode --
 splitting focus. Building, shipping, and operating reliable
 multi-tenant cloud services is hard. It requires non-trivial expertise
 and resources, so if you go down that path you find yourself running
-two startups at once. But we gave it a shot anyway, so let's suppose
-for the moment we could have pulled it off.
+two startups at once. But we were facing an existential threat and
+were rapidly running out of options, so we gave it a shot
+anyway. Let's suppose for the moment we could have pulled it off.
 
 Our reasoning went like this. A database cloud offering could mean one
 of three things: managed hosting, database as a service (DaaS), or
@@ -238,53 +239,43 @@ and we never managed to ship the cloud offering before we ran out of
 money. Kudos to the engineering team, though. They came very, very
 close.
 
-# Couldn't we have hired a good go-to-market team?
-
-When we realized we can't compete with MongoDB in mid-2014, we went
-out to seek advice. Business-minded people told us to build a good
-go-to-market team. Their argument was that experienced sales and
-marketing leaders would figure out how to sell the product and pull
-the company in the right direction.
-
-After thinking long and hard whether to invest remaining capital into
-building a go-to-market team, we decided to put it all into the
-product and work on differentiating RethinkDB with realtime
-functionality. We were in a difficult market and three years behind on
-mindshare. We reasoned that tacking on sales and marketing post-factum
-won't save us.
-
-Today, with the benefit of hindsight, I still believe it was the right
-decision.
-
-Firstly, given the state of the business, we couldn't have hired top
-go-to-market talent.
-
-// TODO
-
 # Meta questions
 
 There is one more level of root cause analysis that we can do. Why did
-we pick a bad market, optimize the product for the wrong metrics, and
-split focus by the end?
+we pick a bad market and optimize the product for the wrong metrics?
 
-The first reason is that early on we had no intuition for products or
-markets. When I was a little kid I wanted to build my own radio, so I
-made a box out of plywood, threw some junk inside, and connected it to
-a power cord. Early RethinkDB was a bit like that. It took me years to
-learn enough electronics to eventually build a working radio. Unless
-you're one of the rare few people who has innate intuition for this
-sort of thing, you have to go through years of trial and error before
-you get good. The intuition will come, but there aren't any shortcuts.
+When I was a little kid I wanted to build my own radio. I made a box
+out of plywood, threw some metal junk inside, and connected the box to
+a power cord. I had books on electronics at home, but didn't think I
+needed them -- I had unwavering faith that I could do it on my
+own. Eventually I did build a working receiver, but it took me years
+to finally realize I needed to learn basic electronics.
 
-The second reason is that after we got better at understanding
-products and markets, we still lied to ourselves about [our
-exceptionalism][rationality]. Just like physicians know that gifts
-from pharmaceutical companies have biasing effects for other
-physicians but believe they are immune from the effect, we believed
-that we will be immune to the hard math of the markets by building a
-brilliant product. The math, of course, eventually caught up with us.
+Early RethinkDB was quite a bit like that. We had no intuition for
+products or markets, so we'd go through the motions of building a
+company without actually understanding what we were doing. What's
+more, we had enormous [optimism bias][rationality]. Just like
+physicians know that gifts from pharmaceutical companies have biasing
+effects for other physicians but believe they are immune from the
+effect, we believed we were immune from the laws of economics and the
+math of running a business. The math, of course, eventually caught up
+with us.
 
-// TODO: base rates, ask others
+Could we have done anything to avoid these mistakes? Not any more than
+I could have built a working radio as a little kid. We were
+unconsciously incompetent, and it took years for that incompetence to
+become conscious.
+
+A few people pointed out that we would have done better if we had
+built an experienced go-to-market team. That's 100% true, but
+unfortunately the timing of our personal development didn't line up
+with the needs of the company. Initially we didn't know we needed
+go-to-market expertise, so we didn't seek out to include it on the
+founding team[2]. By the time we built up a mental model that maps
+well to reality, we found ourselves short on cash, in a difficult
+market filled with capable competitors, and a product that's three
+years behind. By then, the best go-to-market team in the world
+couldn't have saved us.
 
 # What does all this mean for the developer tools market?
 
@@ -303,15 +294,20 @@ end.
 I'll now leave you with three key points to remember. If you remember
 anything about this post, remember these:
 
-- Pick a large market as measured in dollars.
-- Optimize your product for *specific people*, not abstractions in
-  your mind.
-- To change the world, you must first learn to see it as it really is.
+- Pick a large market but build for specific users.
+- Learn to recognize the talents you're missing, then work like hell
+  to get them on your team.
+- Read [The Economist], [Poor Charlie's Almanack], [Thinking Fast and
+  Slow], and [HPMOR].
 
 ---
 
 _[1] Don't read into these numbers too closely. I'm ballparking it,
 but it should give you a general idea of the cost of these mistakes._
+
+_[2] Incidentally, recognizing good business people without having
+strong business intuition is about as hard as recognizing good
+engineers without having strong intuition for engineering._
 
 [shutdown-announcement]: https://rethinkdb.com/blog/rethinkdb-shutdown/
 [hn-discussion]: https://news.ycombinator.com/item?id=12649414
@@ -327,4 +323,7 @@ but it should give you a general idea of the cost of these mistakes._
 [realtime-push]: https://rethinkdb.com/blog/1.16-release/
 [horizon]: http://horizon.io/
 [rationality]: https://doc.research-and-analytics.csfb.com/docView?document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3D
-
+[The Economist]: http://www.economist.com/
+[Poor Charlie's Almanack]: https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018
+[Thinking Fast and Slow]: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
+[HPMOR]: http://hpmor.com/
