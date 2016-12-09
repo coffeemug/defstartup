@@ -308,8 +308,7 @@ anything about this post, remember these:
 - Pick a large market but build for specific users.
 - Learn to recognize the talents you're missing, then work like hell
   to get them on your team.
-- Read [The Economist], [Poor Charlie's Almanack], [Thinking Fast and
-  Slow], and [HPMOR].
+- Read [The Economist] religiously. It will make you better faster.
 
 ---
 
@@ -335,6 +334,3 @@ engineers without having a strong intuition for engineering._
 [horizon]: http://horizon.io/
 [rationality]: https://doc.research-and-analytics.csfb.com/docView?document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3D
 [The Economist]: http://www.economist.com/
-[Poor Charlie's Almanack]: https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018
-[Thinking Fast and Slow]: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
-[HPMOR]: http://hpmor.com/
