@@ -188,12 +188,12 @@ were rapidly running out of options, so we gave it a shot
 anyway. Let's suppose for the moment we could have pulled it off.
 
 Our reasoning went like this. A database cloud offering could mean one
-of three things: managed hosting, database as a service (DaaS), or
+of three things: managed hosting, database as a service (DBaaS), or
 value-added platform as a service (PaaS). Let's do a quick back of the
 napkin market analysis using a $200K/employee in annual revenue [rule
 of thumb][estimate-revenue] we used above:
 
-|                 |  Managed Hosting |   DaaS  |       PaaS              |
+|                 |  Managed Hosting |  DBaaS  |       PaaS              |
 |:----------------|:----------------:|:-------:|:-----------------------:|
 | __Company__     | Compose.io, mLab | FaunaDB | Parse, Firebase, Meteor |
 | __Employees__   |        ~30       |   ~30   |       ~30               |
@@ -212,15 +212,15 @@ more users than RethinkDB, we reasoned that offering managed hosting
 wouldn't make a dent.
 
 Database as a service is a more complex version of managed hosting --
-DaaS offerings abstract node management from the user entirely. You
+DBaaS offerings abstract node management from the user entirely. You
 simply run your queries and the system handles them. You don't know
 anything about how many nodes are run under the hood. This business is
-very challenging -- partly because DaaS companies have to compete with
+very challenging -- partly because DBaaS companies have to compete with
 the giants (e.g. DynamoDB and DocumentDB), and partly because
 customers are very resistant to completely hand off data management to
 a startup when there are so many other substitutes and alternatives
-(do *you* know anyone who uses a DaaS offering from a startup?) So a
-DaaS offering was out.
+(do *you* know anyone who uses a DBaaS offering from a startup?) So a
+DBaaS offering was out.
 
 The last option was to build a value-added platform as a service. We
 thought this was a promising direction because here we had a massive
