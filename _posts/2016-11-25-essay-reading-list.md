@@ -19,3 +19,4 @@ new ones.
 - [The Age of the Essay](http://www.paulgraham.com/essay.html) -- Paul Graham
 - [The Median Isn't the Message](http://cancerguide.org/median_not_msg.html) -- Stephen Jay Gould
 - [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm) -- Richard Feynman
+- [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html) -- Eric Raymond
