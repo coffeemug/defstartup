@@ -8,7 +8,8 @@ title:  "TODO: Possibly add to mental models"
 - Leadership
   - Political capital
   - Framing
-  - Curse of knowledge/Illusion of transparency
+  - Curse of knowledge
+  - Illusion of transparency
 - Individuals:
   - EQ vs IQ vs RQ
   - Charitable interpretation
@@ -39,5 +40,6 @@ title:  "TODO: Possibly add to mental models"
 - Invariant
 - elasticity (cross elasticity, complimentary goods, substitute goods)
 - time preference
+- pluralistic ignorance
+- naive realism
 - false-consensus effect
-- Pluralistic ignorance
