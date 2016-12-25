@@ -5,8 +5,6 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
-- Business/markets:
-  - Five forces
 - Leadership
   - Political capital
   - Framing
