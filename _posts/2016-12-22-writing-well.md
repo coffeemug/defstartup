@@ -36,6 +36,7 @@ title:  "Writing well"
 
 # George Orwell
 
+- Bad writing has two qualities: staleness of imagery and lack of precision.
 - Tabulate your thoughts in precise and detailed ways.
 - Prefer concrete to the abstract.
 - The great enemy of clear language is insincerity.
@@ -64,3 +65,31 @@ title:  "Writing well"
   fresh enough to have an effect? Could I put it more shortly? Have I
   said anything that is avoidably ugly?
 
+# Paul Roberts
+
+- List as many arguments as you can. When you can't anymore, you've
+  probably listed most of your cached thoughts. Don't use these.
+- When in doubt, go for maximum surprise.
+- Concrete is better than abstract.
+- If it is possible to cut a word out, always cut it out.
+- Don't hedge. Decide what you want to say and say it as vigorously as
+  possible, without apology and in plain words.
+- Avoid pat expressions. They are no creation of yours but pieces of
+  common thought floating in the community soup.
+- Choose words that are dressy instead of plain, specific instead of
+  general, loud instead of soft. E.g. in place of "her heart beat," we
+  may write, "her heart pounded, throbbed, fluttered, danced."
+- However, it should not be supposed that the fancy word is always
+  better. Often it is as well to write "Her heart beat" or "It was
+  hot" if that is all it did or all it was.
+- The meaning of a word is the sum of the contexts in which it
+  occurs. When we hear a word, we hear with it an echo of all the
+  situations in which we have heard it before. E.g. when you hear
+  "mother" you probably think of home, safety, love, food.
+- Words like "mother" are loaded with associations that are hard to
+  indicate in a straightforward definition.
+- Avoid words of such general meaning that in a particular sentence
+  they mean nothing (e.g. "nice").
+- In particular, avoid nouns of general meaning (e.g. circumstances,
+  cases, instances, aspects, factors, relationships, attitudes,
+  eventualities).
