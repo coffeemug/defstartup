@@ -1,33 +1,28 @@
 ---
 layout: post
-title:  "Possibly add to mental models"
+title:  "TODO: Possibly add to mental models"
 ---
 
-TODO (clearly add these):
+# Clearly add these:
 
-Leadership
-- Political capital
-- Framing
-- Curse of knowledge/Illusion of transparency
+- Business/markets:
+  - Five forces
+- Leadership
+  - Political capital
+  - Framing
+  - Curse of knowledge/Illusion of transparency
+- Individuals:
+  - EQ vs IQ vs RQ
+  - Charitable interpretation
+  - Reasonable man principle
+- Organizations
+  - Structure and agency
+  - Bystander effect
+  - Forcing function
+  - Mere-exposure effect/In-group favoritism
+  - Narcissism of small differences
 
-Individuals:
-- EQ vs IQ vs RQ
-- Charitable principle
-
-Organizations
-- Reasonable man principle
-- Structure and agency
-- Forcing function
-- Bystander effect
-- Narcissism of small differences
-- Mere-exposure effect/In-group favoritism
-
-Business/markets:
-- Five forces
-
------
-
-TODO (possibly add later):
+# Possibly add later:
 
 - Time horizon (short/medium/long/reaaaaly long views)
 - Comparing probabilities / risk perspective scale
