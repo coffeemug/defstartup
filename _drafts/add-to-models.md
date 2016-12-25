@@ -15,6 +15,7 @@ title:  "TODO: Possibly add to mental models"
   - EQ vs IQ vs RQ
   - Charitable interpretation
   - Reasonable man principle
+  - Force multiplier (for the group)
 - Organizations
   - Structure and agency
   - Bystander effect
