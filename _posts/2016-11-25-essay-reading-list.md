@@ -20,4 +20,4 @@ new ones.
 - [The Median Isn't the Message](http://cancerguide.org/median_not_msg.html) -- Stephen Jay Gould
 - [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm) -- Richard Feynman
 - [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html) -- Eric Raymond
-- [Lear, Tolstoy and the Fool]: http://orwell.ru/library/essays/lear/english/e_ltf
+- [Lear, Tolstoy and the Fool](http://orwell.ru/library/essays/lear/english/e_ltf) -- George Orwell
