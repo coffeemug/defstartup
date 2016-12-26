@@ -5,6 +5,11 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
+- Getting stuck
+  - Feynman on getting stuck (teaching)
+  - Picking a conrete problem
+- Decisions
+  - Worst/Best/Average case analysis
 - Communication
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
