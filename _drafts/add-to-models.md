@@ -6,22 +6,28 @@ title:  "TODO: Possibly add to mental models"
 # Clearly add these:
 
 - Policy
-  - Political capital
   - Reasonable man principle
   - Overton window
 - Communication
   - Framing
-  - Curse of knowledge
-  - Illusion of transparency
   - Elevator pitch (ridiculously important -- link from internal press
     release?)
   - Charitable interpretation
-- Groups
+- Miscommunication
+  - Naive realism
+  - False-consensus effect
+  - Curse of knowledge
+  - Illusion of transparency
+- Individuals
   - EQ vs IQ vs RQ
+  - Structure and agency
+- Leadership
+  - Political capital
+  - Pluralistic ignorance
+  - Bystander effect
+- Groups
   - Mere-exposure effect/In-group favoritism
   - Force multiplier
-  - Structure and agency
-  - Bystander effect
   - Forcing function
   - Narcissism of small differences
   - Maker vs manager schedule
@@ -44,9 +50,6 @@ title:  "TODO: Possibly add to mental models"
 - Invariant
 - elasticity (cross elasticity, complimentary goods, substitute goods)
 - time preference
-- pluralistic ignorance
-- naive realism
-- false-consensus effect
 - activation energy
 - Negotiation/compliance
   - When to treat a human as an NPC
