@@ -5,9 +5,6 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
-- Policy
-  - Reasonable man principle
-  - Overton window
 - Communication
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
