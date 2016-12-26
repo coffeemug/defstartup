@@ -5,22 +5,21 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
+- Policy
+  - Political capital
+  - Reasonable man principle
+  - Overton window
 - Communication
   - Framing
   - Curse of knowledge
   - Illusion of transparency
-  - Overton window
   - Elevator pitch (ridiculously important -- link from internal press
     release?)
-- Leadership
-  - Political capital
-- Individuals:
-  - EQ vs IQ vs RQ
   - Charitable interpretation
-  - Reasonable man principle
-  - Force multiplier (for the group)
-- Organizations
+- Groups
+  - EQ vs IQ vs RQ
   - Mere-exposure effect/In-group favoritism
+  - Force multiplier
   - Structure and agency
   - Bystander effect
   - Forcing function
