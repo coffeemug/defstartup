@@ -5,22 +5,27 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
-- Leadership
-  - Political capital
+- Communication
   - Framing
   - Curse of knowledge
   - Illusion of transparency
+  - Overton window
+  - Elevator pitch (ridiculously important -- link from internal press
+    release?)
+- Leadership
+  - Political capital
 - Individuals:
   - EQ vs IQ vs RQ
   - Charitable interpretation
   - Reasonable man principle
   - Force multiplier (for the group)
 - Organizations
+  - Mere-exposure effect/In-group favoritism
   - Structure and agency
   - Bystander effect
   - Forcing function
-  - Mere-exposure effect/In-group favoritism
   - Narcissism of small differences
+  - Maker vs manager schedule
 
 # Possibly add later:
 
@@ -43,3 +48,8 @@ title:  "TODO: Possibly add to mental models"
 - pluralistic ignorance
 - naive realism
 - false-consensus effect
+- activation energy
+- Negotiation/compliance
+  - When to treat a human as an NPC
+  - Door in the face technique
+  - Anchoring

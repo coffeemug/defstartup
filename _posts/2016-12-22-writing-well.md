@@ -5,6 +5,7 @@ title:  "Writing well"
 
 # Paul Graham
 
+From [The Age of the Essay](http://www.paulgraham.com/essay.html):
 - An essay begins with a question. You notice a door that's ajar, and
   you open it and walk in to see what's inside.
 - Surprise the reader by telling them something they always knew deep
@@ -36,6 +37,7 @@ title:  "Writing well"
 
 # George Orwell
 
+From [Politics and the English Language](http://www.orwell.ru/library/essays/politics/english/e_polit/):
 - Bad writing has two qualities: staleness of imagery and lack of precision.
 - Tabulate your thoughts in precise and detailed ways.
 - Prefer concrete to the abstract.
@@ -67,6 +69,7 @@ title:  "Writing well"
 
 # Paul Roberts
 
+From [How to say nothing in five hundred words](http://www.mrgunnar.net/ap.cfm?subpage=348270):
 - List as many arguments as you can. When you can't anymore, you've
   probably listed most of your cached thoughts. Don't use these.
 - When in doubt, go for maximum surprise.
