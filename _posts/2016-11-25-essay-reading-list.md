@@ -22,3 +22,4 @@ new ones.
 - [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html) -- Eric Raymond
 - [Lear, Tolstoy and the Fool](http://orwell.ru/library/essays/lear/english/e_ltf) -- George Orwell
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) -- Richard Hamming
+- [The Dignified Professor](http://www.pitt.edu/~druzdzel/feynman.html) -- Richard Feynman
