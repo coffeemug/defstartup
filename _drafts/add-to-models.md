@@ -5,32 +5,35 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
-- Getting stuck
-  - Feynman on getting stuck (teaching)
-  - Picking a conrete problem
 - Decisions
   - Worst/Best/Average case analysis
+  - Planning falacy (up the units and multiply by four)
 - Communication
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
     release?)
   - Charitable interpretation
 - Miscommunication
+  - Status
   - Naive realism
   - False-consensus effect
   - Curse of knowledge
   - Illusion of transparency
 - Individuals
   - EQ vs IQ vs RQ
-  - Structure and agency
+  - Structure and agency (roles, natural gravitation towards patterns;
+    acting the way you *think* the role requires of you, as opposed to
+    actually doing what it requires; envy/pride for the role)
 - Leadership
   - Political capital
   - Pluralistic ignorance
   - Bystander effect
+  - Volnurability vs weakness (works for friendship too -- most people
+    don't make close friends because they're too embarrassed to reveal
+    personal facts)
 - Groups
   - Mere-exposure effect/In-group favoritism
   - Force multiplier
-  - Forcing function
   - Narcissism of small differences
   - Maker vs manager schedule
 
@@ -57,3 +60,5 @@ title:  "TODO: Possibly add to mental models"
   - When to treat a human as an NPC
   - Door in the face technique
   - Anchoring
+  - Most negotiation is negotiation by obscurity. Find a lever where
+    even if they know you know, it doesn't change anything.
