@@ -7,7 +7,7 @@ title:  "TODO: Possibly add to mental models"
 
 - Decisions
   - Worst/Best/Average case analysis
-  - Planning falacy (up the units and multiply by four)
+  - Planning falacy (double it and upgrade the unit)
 - Communication
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
