@@ -7,6 +7,7 @@ title:  "TODO: Possibly add to mental models"
 
 - Hypothesis evaluation
   - Cached thoughts
+  - Counter-example
 - Decisions
   - Worst/Best/Average case analysis
 - Business
