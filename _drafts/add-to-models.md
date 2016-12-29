@@ -25,6 +25,7 @@ title:  "TODO: Possibly add to mental models"
   - Curse of knowledge
   - Illusion of transparency
   - Narcissism of small differences (bickering)
+  - Mountains out of emotional molehills
 - Negotiation/games
   - Minimax
   - When to treat a human as an NPC (People as probability
