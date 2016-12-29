@@ -5,6 +5,12 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
+- Groups
+  - Force multiplier
+  - Maker vs manager schedule
+  - Pluralistic ignorance
+  - Bystander effect
+  - Social/cultural norms (same as structure vs agency?)
 - Communication
   - Charitable interpretation
   - Framing
@@ -16,13 +22,6 @@ title:  "TODO: Possibly add to mental models"
   - Curse of knowledge
   - Illusion of transparency
   - Narcissism of small differences (bickering)
-- Groups
-  - Mere-exposure effect/In-group favoritism
-  - Force multiplier
-  - Maker vs manager schedule
-  - Pluralistic ignorance
-  - Bystander effect
-  - Social/cultural norms
 - Negotiation/games
   - Minimax
   - When to treat a human as an NPC
