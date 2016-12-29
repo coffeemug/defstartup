@@ -12,6 +12,7 @@ title:  "TODO: Possibly add to mental models"
   - Maker vs manager schedule
   - Social/cultural norms (same as structure vs agency?)
 - Communication
+  - NVC
   - Charitable interpretation
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
