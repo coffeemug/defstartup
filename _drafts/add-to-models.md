@@ -6,10 +6,10 @@ title:  "TODO: Possibly add to mental models"
 # Clearly add these:
 
 - Groups
+  - Bystander effect
+  - Pluralistic ignorance
   - Force multiplier
   - Maker vs manager schedule
-  - Pluralistic ignorance
-  - Bystander effect
   - Social/cultural norms (same as structure vs agency?)
 - Communication
   - Charitable interpretation
