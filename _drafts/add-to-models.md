@@ -5,12 +5,14 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
-- Groups
+- Groups (organizations?)
+  - Social/cultural norms (same as structure vs agency?)
   - Bystander effect
   - Pluralistic ignorance
+- Management?/Software development
   - Force multiplier
   - Maker vs manager schedule
-  - Social/cultural norms (same as structure vs agency?)
+  - Software release train
 - Communication
   - NVC
   - Charitable interpretation
@@ -52,3 +54,5 @@ title:  "TODO: Possibly add to mental models"
 - Counter-example
 - Original thinking (Cached thoughts/Divergent thinking/Lateral thinking)
 - Worst/Best/Average case analysis
+- Deviance
+
