@@ -25,7 +25,9 @@ title:  "TODO: Possibly add to mental models"
   - Narcissism of small differences (bickering)
 - Negotiation/games
   - Minimax
-  - When to treat a human as an NPC
+  - When to treat a human as an NPC (People as probability
+    distributions -- consider their incentives; separate the people
+    from the problem -- be hard on the problem, soft on the people)
   - Compliance: anchoring, door in the face, foot in the door, etc.
 
 # Possibly add later:
