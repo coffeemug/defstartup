@@ -5,20 +5,8 @@ title:  "TODO: Possibly add to mental models"
 
 # Clearly add these:
 
-- People
-  - Status
-  - Charitable interpretation
-  - EQ vs IQ vs RQ
-  - Structure and agency (roles, natural gravitation towards patterns;
-    acting the way you *think* the role requires of you, as opposed to
-    actually doing what it requires; envy/pride for the role)
-  - Volnurability (most people don't make close friends because
-    they're too embarrassed to reveal personal facts)
-- Hypothesis generation
-  - Original thinking (Cached thoughts/Divergent thinking/Lateral thinking)
-- Decisions
-  - Worst/Best/Average case analysis
 - Communication
+  - Charitable interpretation
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
     release?)
@@ -60,3 +48,5 @@ title:  "TODO: Possibly add to mental models"
 - time preference
 - activation energy
 - Counter-example
+- Original thinking (Cached thoughts/Divergent thinking/Lateral thinking)
+- Worst/Best/Average case analysis
