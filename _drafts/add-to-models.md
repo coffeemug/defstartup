@@ -9,10 +9,9 @@ title:  "TODO: Possibly add to mental models"
   - Social/cultural norms (same as structure vs agency?)
   - Bystander effect
   - Pluralistic ignorance
-- Management?/Software development
+- Management
   - Force multiplier
   - Maker vs manager schedule
-  - Software release train
 - Communication
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
@@ -30,6 +29,10 @@ title:  "TODO: Possibly add to mental models"
     distributions -- consider their incentives; separate the people
     from the problem -- be hard on the problem, soft on the people)
   - Compliance: anchoring, door in the face, foot in the door, etc.
+Engineering
+  - Data structures are more important than code
+  - Re-editable code (Donald Knuth "bias against the fashion for reusable code")
+  - Software release train
 
 # Possibly add later:
 
