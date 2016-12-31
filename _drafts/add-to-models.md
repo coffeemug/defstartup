@@ -14,8 +14,6 @@ title:  "TODO: Possibly add to mental models"
   - Maker vs manager schedule
   - Software release train
 - Communication
-  - NVC
-  - Charitable interpretation
   - Framing
   - Elevator pitch (ridiculously important -- link from internal press
     release?)
