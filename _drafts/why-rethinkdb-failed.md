@@ -24,7 +24,7 @@ optimized the product for the wrong metrics of goodness. Each mistake
 likely cut RethinkDB's valuation by one to two orders of magnitude. So
 if we got either of these right, RethinkDB would have been the size of
 MongoDB, and if we got both of them right, we eventually could have
-been the size of RedHat[1].
+been the size of Red Hat[1].
 
 # Terrible market
 
