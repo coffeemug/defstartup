@@ -21,10 +21,8 @@ come from other people or the bureaucratic system, and mostly make me
 miserable. Working on extrinsic tasks means I'm working on other
 people's agendas. Sometimes it's not even people, but an automated
 semi-human system that doesn't have capacity to care whether the tasks
-get done or not.
-
-Learning to deal with extrinsic tasks is 99% of the productivity
-battle. Here is what I do.
+get done or not. Learning to deal with extrinsic tasks is 99% of the
+productivity battle. Here is what I do.
 
 __First__, I use a single centralized system to keep track of all
 extrinsic tasks. For me, that's e-mail.
@@ -56,6 +54,7 @@ doing it only once, but I haven't tried that yet.
 __Fifth__, when I do process the `incoming` label I use a single test
 to determine if I should work on the task:
 
-> Will the world be materially different in a month if I don't work on
-  this task?
+> Will the world be materially better in a month if I work on this?
 
+If the answer is no, I politely inform people I won't work on the
+task.
