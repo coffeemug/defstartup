@@ -110,5 +110,10 @@ getting together people who are geographically dispersed, but
 conference encounters have a very transactional nature to them. If you
 enjoy the crowd, then go. But don't go to try and meet someone
 important, or advance your personal brand. You'll have a terrible time
-and won't accomlish anything useful.
+and won't accomlish anything useful. (I also feel this way about
+giving talks; if you're working on something actually important and
+want people to know, then go, otherwise you're better off writing a
+blog post)
+
+
 
