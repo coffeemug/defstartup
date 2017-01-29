@@ -25,7 +25,18 @@ get done or not. Learning to deal with extrinsic tasks is 99% of the
 productivity battle. Here is what I do.
 
 __First__, I use a single centralized system to keep track of all
-extrinsic tasks. For me, that's e-mail.
+extrinsic tasks. For me, that's e-mail. I have a label in gmail called
+`incoming` along with an automatic filter that labels each new e-mail
+as `incoming` and archives it. That's right, all new e-mail bypasses
+the inbox. There is a cognitive burden I don't entirely understand
+with having e-mail in my inbox that disappears entirely when I use a
+label instead. Probably because I have some unshakable internal
+expectation that I should process everything in my inbox, where as a
+label can grow infinitely without causing me any apprehension.
+
+I process the `incoming` label no more than twice a day -- in the
+morning and in the evening. I could probably get away with doing it
+only once, but I haven't tried that yet.
 
 __Second__, I never immediately agree to do anything that takes more
 than thirty seconds. Here is what I say instead (in person, over
@@ -38,20 +49,7 @@ If something extrinsic comes up that I myself think I need to do (like
 filling out some HR form), I don't do it -- I send myself an e-mail
 instead.
 
-__Third__, I have a label in gmail called `incoming` along with an
-automatic filter that labels each new e-mail as `incoming` and
-archives it. That's right, all new e-mail bypasses the inbox. There is
-a cognitive burden I don't entirely understand with having e-mail in
-my inbox that disappears entirely when I use a label instead. Probably
-because I have some unshakable internal expectation that I should
-process everything in my inbox, where as a label can grow infinitely
-without causing me any apprehension.
-
-__Fourth__, I process the `incoming` label no more than twice a day --
-in the morning and in the evening. I could probably get away with
-doing it only once, but I haven't tried that yet.
-
-__Fifth__, when I do process the `incoming` label I use a single test
+__Third__, when I do process the `incoming` label I use a single test
 to determine if I should work on the task:
 
 > Will the world be materially better in a month if I work on this?
