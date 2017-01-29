@@ -88,32 +88,10 @@ meetings. Meetings come in two forms -- __networking__ (e.g. let's
 grab coffee and see what happens), and __procedural__ (e.g. the Monday
 morning sprint meeting).
 
-My personal view on networking/area-of-luck meetings is that they
-mostly go nowhere. If you're not working on anything important,
-meeting someone important isn't going to help you. If you _are_
-working on something important meeting people will be easy, and being
-able to say "we met four years ago..." is helpful, but barely.
-
-Here is a test I use to decide if I want to meet someone: _is this
-person likely to materially change my model of the world?_ If the
-answer is no, I politely inform people that I decided not to take
-meetings this year. Another thing I ask myself is this: _if I had ten
-meetings like this, how many of them would be likely to change my
-model of the world?_ (the answer is _maybe_ one, so unless you get
-e-mails from really interesting people, you should be saying no 95% of
-the time). Yet another question is _how likely am I to enjoy this
-meeting?_ (which in case of meeting strangers is roughly equivalent
-for me to the other two questions)
-
-My view on conferences is similar -- the do provide the benefit of
-getting together people who are geographically dispersed, but
-conference encounters have a very transactional nature to them. If you
-enjoy the crowd, then go. But don't go to try and meet someone
-important, or advance your personal brand. You'll have a terrible time
-and won't accomlish anything useful. (I also feel this way about
-giving talks; if you're working on something actually important and
-want people to know, then go, otherwise you're better off writing a
-blog post)
-
+My personal view on networking/area-of-luck meetings (and conferences)
+is that they're amplifiers of your work. If you're doing something
+important, you'll ave lots of fun meeting people. On the other hand,
+if your work is mediocre, meetings will go nowhere. So important work
+comes first.
 
 
