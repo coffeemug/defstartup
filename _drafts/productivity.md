@@ -86,7 +86,7 @@ people or systems waste my time).
 A large portion of your e-mail will likely be requests for
 meetings. Meetings come in two forms -- __networking__ (e.g. let's
 grab coffee and see what happens), and __procedural__ (e.g. the Monday
-sprint meeting).
+morning sprint meeting).
 
 My personal view on networking/area-of-luck meetings is that they
 mostly go nowhere. If you're not working on anything important,
@@ -101,5 +101,14 @@ meetings this year. Another thing I ask myself is this: _if I had ten
 meetings like this, how many of them would be likely to change my
 model of the world?_ (the answer is _maybe_ one, so unless you get
 e-mails from really interesting people, you should be saying no 95% of
-the time)
+the time) Yet another question is _how likely am I to enjoy this
+meeting?_ (which in case of meeting strangers is roughly equivalent
+for me to the other two questions)
+
+My view on talks and conferences is similar -- the do provide the
+benefit of getting together people who would normally be
+geographically dispersed, but conference meetings have a very
+transactional nature to them. If you enjoy the crowd, then go, but
+don't go to try and meet someone important, or advance your personal
+brand. You'll have a terrible time and won't accomlish your goals.
 
