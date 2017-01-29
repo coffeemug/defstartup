@@ -85,15 +85,21 @@ people or systems waste my time).
 # Meetings
 
 A large portion of your e-mail will likely be requests for
-meetings. Meetings come in two forms -- __networking__ (e.g. let's
+meetings. Meetings come in two varieties -- __networking__ (e.g. let's
 grab coffee and see what happens), and __procedural__ (e.g. the Monday
 morning sprint meeting).
 
 My personal view on networking/area-of-luck meetings (and conferences)
 is that they're amplifiers of your work. If you're doing something
 important, you'll have lots of fun meeting people. On the other hand,
-if your work is mediocre, meetings will go nowhere. So important work
-comes first. I ask myself: _am I excited to share my work with this
-person?_ If the answer is no, I politely turn the meeting down.
+if your work is mediocre, meetings will go nowhere. To make this more
+concrete, if you invented oculus rift and there is a 30m line to your
+booth packed with people who can't wait to try it out, you'll have a
+lot more fun than if you invented yet another sensor that tracks
+people's sleep and you get an occassional lost person drop by and ask
+you for directions to the bathroom.
 
+So important work comes first. I ask myself: _how likely is this
+person/audience to be giddy about my work?_ Unless the answer is "very
+likely", I politely turn the meeting down.
 
