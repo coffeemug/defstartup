@@ -107,7 +107,7 @@ for me to the other two questions)
 
 My view on conferences is similar -- the do provide the benefit of
 getting together people who are geographically dispersed, but
-conference meetings have a very transactional nature to them. If you
+conference encounters have a very transactional nature to them. If you
 enjoy the crowd, then go. But don't go to try and meet someone
 important, or advance your personal brand. You'll have a terrible time
 and won't accomlish anything useful.
