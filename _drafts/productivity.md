@@ -50,7 +50,7 @@ filling out some HR form), I don't do it -- I send myself an e-mail
 instead.
 
 __Third__, when I do process the `incoming` label I use a single test
-to determine if I should work on the task:
+to determine if I should work on each task:
 
 > Is my involvement in this task likely to make the world look
   materially different a month from now?
@@ -66,9 +66,23 @@ In practice it means I'll only take on extrinsic tasks if their impact
 will be felt months or years into the future. Here are examples of
 tasks that pass my test:
 
-- Closing a candidate
-- Closing a high value customer
+- Closing a candidate or a high value customer
+- Coaching people
 - Deciding on a programming language for a project
 - Bureaucratic tasks that involve large or escalating penalties
 - Helping design a product feature
 
+Here are examples of tasks that don't pass my test:
+
+- Vendor selection
+- Filling out status spreadsheets
+- Requests to write something up
+- Reviewing most decisions
+- Editing SEO content
+
+Note that I'm not suggesting you need such a high bar for _everything_
+you do, just that you can usually get away with having such a high bar
+for extrinsic tasks that you _don't want_ to do. For me prioritization
+only gets difficult if I fail to properly filter extrinsic demands (or
+to put it more bluntly, task management is only a problem when other
+people or systems waste my time).
