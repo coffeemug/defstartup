@@ -92,6 +92,7 @@ My personal view on networking/area-of-luck meetings (and conferences)
 is that they're amplifiers of your work. If you're doing something
 important, you'll have lots of fun meeting people. On the other hand,
 if your work is mediocre, meetings will go nowhere. So important work
-comes first.
+comes first. I ask myself: _am I excited to share my work with this
+person?_ and if the answer is no, I politely turn the meeting down.
 
 
