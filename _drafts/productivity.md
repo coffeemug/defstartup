@@ -94,10 +94,10 @@ is that they're amplifiers of your work. If you're doing something
 important, you'll have lots of productive meetings. On the other hand,
 if your work is mediocre, meetings will go nowhere. To make this more
 concrete, if you invented oculus rift and there is a 30m line to your
-booth packed with people who can't wait to try it out, you'll have a
-lot more fun than if you invented yet another sensor that tracks
-people's sleep and you get an occassional lost person drop by and ask
-you for directions to the bathroom.
+booth packed with people who can't wait to try it, you'll have a lot
+more fun than if you invented yet another sensor that tracks people's
+sleep and you get an occassional lost person drop by and ask you for
+directions to the bathroom.
 
 So important work comes first. I ask myself: _how likely is this
 person/audience to be giddy about my work?_ Unless the answer is "very
