@@ -91,7 +91,7 @@ morning sprint meeting).
 
 My personal view on networking/area-of-luck meetings (and conferences)
 is that they're amplifiers of your work. If you're doing something
-important, you'll have lots of fun meeting people. On the other hand,
+important, you'll have lots of productive meetings. On the other hand,
 if your work is mediocre, meetings will go nowhere. To make this more
 concrete, if you invented oculus rift and there is a 30m line to your
 booth packed with people who can't wait to try it out, you'll have a
