@@ -52,7 +52,23 @@ instead.
 __Third__, when I do process the `incoming` label I use a single test
 to determine if I should work on the task:
 
-> Will the world be materially better in a month if I work on this?
+> Is my involvement in this task likely to make the world look
+  materially different a month from now?
 
-If the answer is no, I politely inform people I won't work on the
-task.
+If the answer is no, I politely inform people I won't work on the task
+and try to give a helpful suggestion on how they could accomplish it
+without me:
+
+> I'm working on something else and unfortunately can't get to
+  this. Could you try Jim or Mary instead?
+
+In practice it means I'll only take on extrinsic tasks if their impact
+will be felt months or years into the future. Here are examples of
+tasks that pass my test:
+
+- Closing a candidate
+- Closing a high value customer
+- Deciding on a programming language for a project
+- Bureaucratic tasks that involve large or escalating penalties
+- Helping design a product feature
+
