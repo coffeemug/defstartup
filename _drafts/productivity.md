@@ -51,10 +51,9 @@ instead.
 
 __Third__, when I do process the `incoming` label I use a single test
 to determine if I should work on each task: _is my involvement likely
-to make the world look materially different a month from now?_
-
-If the answer is no, I politely inform people I won't work on the task
-and try to give a helpful suggestion on how they could accomplish it
+to make the world look materially different a month from now?_ If the
+answer is no, I politely inform people I won't work on the task and
+try to give a helpful suggestion on how they could accomplish it
 without me:
 
 > I'm working on something else and unfortunately can't get to
