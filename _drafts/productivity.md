@@ -54,10 +54,7 @@ to determine if I should work on each task: _is my involvement likely
 to make the world look materially different a month from now?_ If the
 answer is no, I politely inform people I won't work on the task and
 try to give a helpful suggestion on how they could accomplish it
-without me:
-
-> I'm working on something else and unfortunately can't get to
-  this. Could you try Jim or Mary instead?
+without me.
 
 In practice it means I'll only take on extrinsic tasks if their impact
 will be felt months or years into the future. Here are examples of
@@ -83,3 +80,26 @@ for extrinsic tasks that you _don't want_ to do. For me prioritization
 only gets difficult if I fail to properly filter extrinsic demands (or
 to put it more bluntly, task management is only a problem when other
 people or systems waste my time).
+
+# Meetings
+
+A large portion of your e-mail will likely be requests for
+meetings. Meetings come in two forms -- __networking__ (e.g. let's
+grab coffee and see what happens), and __procedural__ (e.g. the Monday
+sprint meeting).
+
+My personal view on networking/area-of-luck meetings is that they
+mostly go nowhere. If you're not working on anything important,
+meeting someone important isn't going to help you. If you _are_
+working on something important meeting people will be easy, and being
+able to say "we met four years ago..." is helpful, but barely.
+
+Here is a test I use to decide if I want to meet someone: _is this
+person likely to materially change my model of the world?_ If the
+answer is no, I politely inform people that I decided not to take
+meetings this year. Another thing I ask myself is this: _if I had ten
+meetings like this, how many of them would be likely to change my
+model of the world?_ (the answer is _maybe_ one, so unless you get
+e-mails from really interesting people, you should be saying no 95% of
+the time)
+
