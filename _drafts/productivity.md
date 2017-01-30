@@ -26,8 +26,8 @@ productivity battle. Here is what I do.
 
 __First__, I use e-mail as a single centralized system to keep track
 of all extrinsic tasks, and never immediately agree to do anything
-that takes more than thirty seconds. Instead, I ask people to e-mail
-me the task:
+that takes more than thirty seconds. Instead, I politely ask people to
+e-mail me the task (having a template that's a keystroke away helps):
 
 > I'm working on something right now and can't commit to doing
   this. Could you send me an e-mail and I'll see if I can get to it?
@@ -98,5 +98,8 @@ occassional lost soul asking for directions to the bathroom.
 
 So important work comes first. I ask myself: _how likely is this
 person/audience to be giddy about my work?_ Unless the answer is "very
-likely", I politely turn the meeting down.
+likely", I politely turn the meeting down (via a template shortcut):
+
+> Thank for thinking of me, but I decided to be a bit reclusive and
+  focus on doing uninterrupted work for the next six months.
 
