@@ -83,10 +83,8 @@ in my inbox, and eliminates tasks that people don't need me to do
 
 # Meetings
 
-A large portion of your e-mail will likely be requests for
-meetings. Meetings come in two varieties -- __networking__ (e.g. let's
-grab coffee and see what happens), and __procedural__ (e.g. the Monday
-morning sprint meeting).
+A large portion of your e-mail will likely be requests for meetings
+(e.g. let's grab coffee and see what happens).
 
 My personal view on networking/area-of-luck meetings (and conferences)
 is that they're amplifiers of your work. If you're doing something
