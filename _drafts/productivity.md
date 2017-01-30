@@ -75,7 +75,7 @@ __Third__, I have a label in gmail called `later`, and at the end of
 each batch I move all left-over e-mail in my inbox into that
 label. Then I let the `later` label grow infinitely and never look at
 it again unless the e-mail reappears in my inbox. This trick
-eliminates the cognitive burden I associated with having latent e-mail
+eliminates the cognitive burden associated with having latent e-mail
 in my inbox, and eliminates tasks that people don't need me to do
 *that* badly (because if they did, they'd e-mail me again).
 
