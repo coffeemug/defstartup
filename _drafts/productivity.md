@@ -43,8 +43,10 @@ only once, but I haven't tried that yet).
 For each e-mail I use a single test to determine if I should work on
 it: _is my involvement likely to make the world look materially
 different a month from now?_ If the answer is no, I politely inform
-people I won't work on the task and try to give a helpful suggestion
-on how they could accomplish it without me.
+people I won't work on the task (again, via a template shortcut):
+
+> Hi, I really need to focus on other work right now and can't work on
+  this task. Could you do it without me?
 
 In practice it means I'll only take on extrinsic tasks if their impact
 will be felt months or years into the future. Here are examples of
