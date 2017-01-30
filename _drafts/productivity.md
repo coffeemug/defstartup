@@ -20,9 +20,9 @@ easy and fun, so it doesn't really present a problem. Extrinsic tasks
 come from other people or the bureaucratic system, and mostly make me
 miserable. Working on extrinsic tasks means I'm working on other
 people's agendas. Sometimes it's not even people, but an automated
-semi-human system that doesn't have capacity to care whether the tasks
-get done or not. Learning to deal with extrinsic tasks is 99% of the
-productivity battle. Here is what I do.
+semi-human system that doesn't have the capacity to care whether the
+tasks get done or not. Learning to deal with extrinsic tasks is 99% of
+the productivity battle. Here is what I do.
 
 __First__, I use e-mail as a single centralized system to keep track
 of all extrinsic tasks, and never immediately agree to do anything
@@ -46,7 +46,7 @@ different a month from now?_ If the answer is no, I politely inform
 people I won't work on the task (again, via a template shortcut):
 
 > Hi, I really need to focus on other work right now and can't work on
-  this task. Could you do it without me?
+  this task.
 
 In practice it means I'll only take on extrinsic tasks if their impact
 will be felt months or years into the future. Here are examples of
