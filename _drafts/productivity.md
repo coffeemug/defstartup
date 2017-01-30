@@ -41,7 +41,7 @@ morning and in the evening (I could probably get away with doing it
 only once, but I haven't tried that yet).
 
 For each e-mail I use a single test to determine if I should work on
-each task: _is my involvement likely to make the world look materially
+it: _is my involvement likely to make the world look materially
 different a month from now?_ If the answer is no, I politely inform
 people I won't work on the task and try to give a helpful suggestion
 on how they could accomplish it without me.
@@ -73,11 +73,11 @@ people or systems waste my time).
 
 __Third__, I have a label in gmail called `later`, and at the end of
 each batch I move all left-over e-mail in my inbox into that
-label. There is a cognitive burden I don't entirely understand with
-having latent e-mail in my inbox that disappears entirely when I use a
-label instead. Probably because I have some unshakable internal
-expectation that I should process everything in my inbox, where as a
-label can grow infinitely without causing me any apprehension.
+label. Then I let the `later` label grow infinitely and never look at
+it again unless the e-mail reappears in my inbox. This trick
+eliminates the cognitive burden I associated with having latent e-mail
+in my inbox, and eliminates tasks that people don't need me to do
+*that* badly (because if they did, they'd e-mail me again).
 
 # Meetings
 
