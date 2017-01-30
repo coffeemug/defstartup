@@ -100,6 +100,6 @@ So important work comes first. I ask myself: _how likely is this
 person/audience to be giddy about my work?_ Unless the answer is "very
 likely", I politely turn the meeting down (via a template shortcut):
 
-> Thank for thinking of me, but I decided to be a bit reclusive and
+> Thanks for thinking of me, but I decided to be a bit reclusive and
   focus on doing uninterrupted work for the next six months.
 
