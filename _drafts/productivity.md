@@ -24,24 +24,10 @@ semi-human system that doesn't have capacity to care whether the tasks
 get done or not. Learning to deal with extrinsic tasks is 99% of the
 productivity battle. Here is what I do.
 
-__First__, I use a single centralized system to keep track of all
-extrinsic tasks. For me, that's e-mail. I process e-mail no more than
-twice a day -- in the morning and in the evening (I could probably get
-away with doing it only once, but I haven't tried that yet).
-
-I have a label in gmail called `incoming`, and every time I open the
-client, the first thing I do is label everything in my inbox as
-`incoming` and archive it. That's right, my first step is to
-completely clear the inbox in a few clicks. There is a cognitive
-burden I don't entirely understand with having e-mail in my inbox that
-disappears entirely when I use a label instead. Probably because I
-have some unshakable internal expectation that I should process
-everything in my inbox, where as a label can grow infinitely without
-causing me any apprehension.
-
-__Second__, I never immediately agree to do anything that takes more
-than thirty seconds. Here is what I say instead (in person, over
-Slack, etc.):
+__First__, I use e-mail as a single centralized system to keep track
+of all extrinsic tasks, and never immediately agree to do anything
+that takes more than thirty seconds. Instead, I ask people to e-mail
+me the task:
 
 > I'm working on something right now and can't commit to doing
   this. Could you send me an e-mail and I'll see if I can get to it?
@@ -50,12 +36,15 @@ If something extrinsic comes up that I myself think I need to do (like
 filling out some HR form), I don't do it -- I send myself an e-mail
 instead.
 
-__Third__, when I do process the `incoming` label I use a single test
-to determine if I should work on each task: _is my involvement likely
-to make the world look materially different a month from now?_ If the
-answer is no, I politely inform people I won't work on the task and
-try to give a helpful suggestion on how they could accomplish it
-without me.
+__Second__, I process e-mail no more than twice a day -- in the
+morning and in the evening (I could probably get away with doing it
+only once, but I haven't tried that yet).
+
+For each e-mail I use a single test to determine if I should work on
+each task: _is my involvement likely to make the world look materially
+different a month from now?_ If the answer is no, I politely inform
+people I won't work on the task and try to give a helpful suggestion
+on how they could accomplish it without me.
 
 In practice it means I'll only take on extrinsic tasks if their impact
 will be felt months or years into the future. Here are examples of
@@ -81,6 +70,14 @@ for extrinsic tasks that you _don't want_ to do. For me prioritization
 only gets difficult if I fail to properly filter extrinsic demands (or
 to put it more bluntly, task management is only a problem when other
 people or systems waste my time).
+
+__Third__, I have a label in gmail called `later`, and at the end of
+each batch I move all left-over e-mail in my inbox into that
+label. There is a cognitive burden I don't entirely understand with
+having latent e-mail in my inbox that disappears entirely when I use a
+label instead. Probably because I have some unshakable internal
+expectation that I should process everything in my inbox, where as a
+label can grow infinitely without causing me any apprehension.
 
 # Meetings
 
