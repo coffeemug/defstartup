@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/coffeemug
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://defstartup.org
+  * I am coffeemug (https://keybase.io/coffeemug) on keybase.
+  * I have a public key with fingerprint 61D8 8768 ADF2 C641 6ED5  2E6A 045D F3C7 4618 7048
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120dea5071ffeb21762438ec2509e4325ad08e7a0af77168469d900dffed723f2620a",
+            "fingerprint": "61d88768adf2c6416ed52e6a045df3c746187048",
+            "host": "keybase.io",
+            "key_id": "045df3c746187048",
+            "kid": "010192af5039592c8b8d2ad2fa19e59b7f28e7746e50fff5efea677915e6f4b60d1c0a",
+            "uid": "b3646d63ad56c3a95b3ce06eea4eab19",
+            "username": "coffeemug"
+        },
+        "service": {
+            "hostname": "defstartup.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486954256,
+    "expire_in": 157680000,
+    "prev": "fbb8757fb0398b61f956cad2bcc922dc82fe5f9aa078738b6ec3c5e854179134",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMN0AnicZZJ7UFRVHMcXXUQeOjRJIH9Ie20cK2Dv89x7USNIAQutGWVCSnbv49zl
+uri77IPHLo8iKFCYsVQ0c3g0O2HkJAqowTiA8ZjRwXJ0hKFkEA0Co2QwGpqiziX9
+q/vPmXvO5/s93993Tt+albqQAP3++cGUKEdawPXeUx5dZlNMuA8T7XIRluDDrHB5
+gbkydLlNVlXGEjCcIHEZCgzOEooCRZJgAUlTHJRIBuchTZGMIOMcZAVcUFiWABwN
+eJnHcRnRMktSCglIXMBiMUW1WaDT4VRtbmQLCJnjWMAJskJKgCYAlBkSAgGnGVmh
+JJYGBMfiNIeEOXaXpkDhRMEF41U72kM/pv/i/Z9/mhsneFJQGJziGZ6UOJGTSUEm
+FYHgIcOLrEKi1EgHGVxRFAYqUAAsyxMMBAotAlwmpOXcnmU7kQI0kAElyAyQKIFn
+REqCOIBQoKEgErwGuqDTJhyEiJbsaHp40GPBSmIxtJ2vSlBrVhvlCSJDxeUWnG6P
+I97utCC5w2l32yV7LjrLcbsdCZrUXeTQ2AIomp64mETVJqMmkSAfOl2q3YYlEIiU
+3KpmS9Ac4BmaZEAsBgsdqhOaVI1gUNU4+rRrYD6yVESRYxlWEVE9nAgIhUdzoXpE
+SeJJUpY4UoGMwgsCznIshQgoURIDOYYmUEcUjWlz5dnsmjfKKViQp0u12AS3xwmx
+kqu97+p1ASG6VYErtCemCwkOf/rwyh3hutqovwvvjeR1PfzmmQ1lb058aBy2f3Z4
+/XjPH0lFMaMnPkn/Wb7S2BZ8bXbC8J5/fX9um9d/bbyBvZcznefa8dpAf3Lq5LmR
+t1c1zGx5NWv65uJ8a2lnw4PVx1uHMvRp/lHs2b21UzEXTi39sHVoOKw7NrFPrNhU
+PBgXfL3MTiXeUDkp4uaKwAKfPzxn6uhMzMPg09OmG8cXI6k1c6ezyG9fMN/ZsmTZ
+0H2LBbsP5FZ5vLd/tD7ObBGj7uwNHM8+3NkYGtJV6P36zFKpr/rzsbDiitHW+bWj
+rSsXLna81ACcXNwUebauJNL68n3g7FHrqyLPXYy9QuvPX9r8Vcm2yeSKjXnS5qp9
+0b7fIs448052F5qpV15vXqhs7kisHnh08tZI+aH0icr63Z6NhUPPPc6Kb9sWMGao
+KdoVVq42RZt/YYz+0MreYwfiO3568LzH8P6AGWSUHXmUlhyyfVJfgN3OrrvcNtwX
+2Xms5tAX3sqt5o37z2/PTHojaC4lO2ndRzneuLnZ9r+CrHXGnuhf1909W8VFF1yY
+e8dqkGdDP+4YJMiWq6G/d5Eptd3tQtKmf+r6Evc0taXvrEjyXq7e82firogPgryr
+o74cMqWlDkfomZajL36fulAHubX+nn2XDNGlI82+/sXM+8YZ/NMd7eNHvjOEF2fU
+GN+qN5OC0TW0kwsam7t7otH1L9gmvFk=
+=rg/I
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/coffeemug
+
+==================================================================
