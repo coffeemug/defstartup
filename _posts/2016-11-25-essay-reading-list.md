@@ -24,4 +24,4 @@ new ones.
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) -- Richard Hamming
 - [The Dignified Professor](http://www.pitt.edu/~druzdzel/feynman.html) -- Richard Feynman
 - [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) -- Jo Freeman
-
+- [The Use of Knowledge in Society](http://www.econlib.org/library/Essays/hykKnw1.html) -- F.A. Hayek
