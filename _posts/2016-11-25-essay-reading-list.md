@@ -25,3 +25,4 @@ new ones.
 - [The Dignified Professor](http://www.pitt.edu/~druzdzel/feynman.html) -- Richard Feynman
 - [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) -- Jo Freeman
 - [The Use of Knowledge in Society](http://www.econlib.org/library/Essays/hykKnw1.html) -- F.A. Hayek
+- [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html) -- Eugene Wigner
