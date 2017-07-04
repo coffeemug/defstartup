@@ -33,3 +33,12 @@ td {
 
 tr:nth-child(even) td { background: #F1F1F1; }
 tr:nth-child(odd) td { background: #FEFEFE; }
+
+a.post-link {
+  display: inline;
+  font-size: 16px;
+}
+
+.post-list > li {
+  margin-bottom: 14px;
+}
