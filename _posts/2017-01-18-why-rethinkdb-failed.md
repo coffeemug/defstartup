@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "RethinkDB: why we failed"
+redirect_to:
+  - http://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html
 ---
 
 When we [announced][shutdown-announcement] that RethinkDB is shutting

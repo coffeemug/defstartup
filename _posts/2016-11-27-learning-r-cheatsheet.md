@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Learning R cheatsheet
+redirect_to:
+  - http://www.defmacro.org/2016/11/27/learning-r-cheatsheet.html
 ---
 
 Getting help:

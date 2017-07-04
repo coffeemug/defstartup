@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tmux cheatsheet
+redirect_to:
+  - http://www.defmacro.org/2016/11/29/tmux-cheatsheet.html
 ---
 
 iTerm2 integration (so you don't have to learn any commands):

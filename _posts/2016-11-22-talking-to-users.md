@@ -2,6 +2,8 @@
 layout: post
 title:  "Talking to users"
 date:   2016-11-22 21:08:43 -0800
+redirect_to:
+  - http://www.defmacro.org/2016/11/22/talking-to-users.html
 ---
 
 The idea that startups should talk to users is conventional

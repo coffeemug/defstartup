@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Essay Reading List
+redirect_to:
+  - http://www.defmacro.org/2016/11/25/essay-reading-list.html
 ---
 
 These are some essays I find myself regularly re-reading. I'll

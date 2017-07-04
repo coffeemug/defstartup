@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Writing well"
+redirect_to:
+  - http://www.defmacro.org/2016/12/22/writing-well.html
 ---
 
 # Paul Graham
